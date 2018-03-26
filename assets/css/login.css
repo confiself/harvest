@@ -1,0 +1,94 @@
+div.login{
+	height: 400px;
+	width:300px;
+	background: #ffffff;
+	margin: 0 auto;
+	padding-top:10px;
+}
+.login div {
+    width:250px;
+    height: 40px;
+    margin: 20px;
+    text-align: left;
+}
+.login input{
+    width:250px;
+    height: 40px;
+    margin-left:3px;
+    padding-left: 50px;
+    border: 1px solid #c0c0c0;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: left;
+}
+.login #loginButton{
+ 	width:250px;
+    height: 40px;
+    display:inline-block;
+    line-height:40px;
+    background: #4dc71f;
+    border-radius:5px;
+    font-size:22px;  
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+}
+.item{
+    width:100px;
+    height:200px;
+    border: 1px solid red;
+}
+.item-type{
+    width: 100px;
+    height: 45px;
+    border-bottom: 1px solid #c0c0c0;
+}
+.item-type a{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    color: #0066CC;
+    display: inline-block;
+}
+.item-type img{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+.item-pic {
+    width: 100px;
+    height: 100px;
+    background: #0066CC;
+}
+.item-pic-main {
+    width: 50px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item-pic-select {
+    width: 20px;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: right;
+    margin-right: 20px;
+    display:none;
+}
+.item-name{
+    width: 100px;
+    height: 25px;
+    border-top: 1px dotted red;
+}
+.item-name h3 h4{
+    margin-left:auto;
+    margin-right:auto;
+}
+#loginTitle{
+	margin:0 auto;
+	padding:0;
+}

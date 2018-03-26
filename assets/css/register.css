@@ -1,0 +1,32 @@
+div.reg{height: 400px;width:600px;background: #ffffff;margin: 0 auto}
+.reg span.left {
+    float:left;
+    width:150px;
+    text-align:right;
+    font-size: x-large;
+}
+.reg input{
+    float:left;
+    width:200px;
+    height: 20px;
+    margin-left: 20px;
+}
+.reg span{
+    float:left;
+    width:150px;
+    margin-left: 20px;
+    font-size: large;
+}
+div .registerbutton{
+    background: #4dc71f;
+    padding: 5px;
+    width: 50px;
+    display: inline-block;
+    border-radius: 2px;
+    text-align: center;
+    color: #ffffff;
+    cursor:pointer;
+}
+.reg p{
+    margin-top:30px
+}
